@@ -1,6 +1,8 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("🎈 Techschool 2025 Tutorial Streamlit na cloud")
+st.header("Primeiro cabeçalho")
+st.subheader("Meninas apaixonadas por tecnologia aprendendo a programar")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Primeiro tutorial da Techschool 2025 com Streamlit"
 )
